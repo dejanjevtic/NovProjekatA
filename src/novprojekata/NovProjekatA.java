@@ -16,6 +16,7 @@ public class NovProjekatA {
      */
     public static void main(String[] args) {
         int p = 6;
+        System.out.println(p);
     }
     
 }
